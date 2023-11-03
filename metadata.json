@@ -1,5 +1,5 @@
 {
-  "clientSchemaVersion": 1,
-  "serverSchemaVersion": 7,
+  "clientSchemaVersion": 2,
+  "serverSchemaVersion": 8,
   "fileFormatVersion": 5
 }
